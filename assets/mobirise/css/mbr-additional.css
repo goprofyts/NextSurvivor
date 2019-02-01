@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 #ext_menu-3 .navbar-toggler {
   color: #000;
 }
@@ -24,4 +28,21 @@
   text-align: center;
   font-family: 'Noto Sans', sans-serif;
   font-size: 24px;
+}
+#content4-4 H4 {
+  font-family: 'Noto Sans', sans-serif;
+  color: #d40000;
+}
+#content4-4 P {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#content5-a P {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#msg-box4-b .lead P {
+  text-align: left;
+  color: #ffffff;
+  font-family: 'Noto Sans', sans-serif;
 }
